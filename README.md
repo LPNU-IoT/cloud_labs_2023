@@ -1,5 +1,5 @@
-# Cloud labs 2022
-**Cloud Services Labs Autumn 2022**
+# Cloud labs 2023
+**Cloud Services Labs Autumn 2023**
 
 ## Критерії оцінювання
 
